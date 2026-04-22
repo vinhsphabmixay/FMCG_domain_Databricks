@@ -1,0 +1,36 @@
+customer_id,customer_name,city,read_timestamp,file_name,file_size,customer,market,platform,channel
+789622,Eliteathlete Nutrition,New Delhi,2026-04-21T17:20:10.104Z,customers.csv,1404,Eliteathlete Nutrition-New Delhi,India,Sports Bar,Acquisition
+789321,Powersnack Hub,Hyderabad,2026-04-21T17:20:10.104Z,customers.csv,1404,Powersnack Hub-Hyderabad,India,Sports Bar,Acquisition
+789601,Recovery Lane,Bengaluru,2026-04-21T17:20:10.104Z,customers.csv,1404,Recovery Lane-Bengaluru,India,Sports Bar,Acquisition
+789720,Gameplan Foods,Bengaluru,2026-04-21T17:20:10.104Z,customers.csv,1404,Gameplan Foods-Bengaluru,India,Sports Bar,Acquisition
+789201,Fitfuel Market,Bengaluru,2026-04-21T17:20:10.104Z,customers.csv,1404,Fitfuel Market-Bengaluru,India,Sports Bar,Acquisition
+789301,Athlete's Choice Store,Bengaluru,2026-04-21T17:20:10.104Z,customers.csv,1404,Athlete's Choice Store-Bengaluru,India,Sports Bar,Acquisition
+789420,Zenathlete Foods,Bengaluru,2026-04-21T17:20:10.104Z,customers.csv,1404,Zenathlete Foods-Bengaluru,India,Sports Bar,Acquisition
+789202,Fitfuel Market,Hyderabad,2026-04-21T17:20:10.104Z,customers.csv,1404,Fitfuel Market-Hyderabad,India,Sports Bar,Acquisition
+789122,Hydroboost Nutrition,New Delhi,2026-04-21T17:20:10.104Z,customers.csv,1404,Hydroboost Nutrition-New Delhi,India,Sports Bar,Acquisition
+789421,Zenathlete Foods,Hyderabad,2026-04-21T17:20:10.104Z,customers.csv,1404,Zenathlete Foods-Hyderabad,India,Sports Bar,Acquisition
+789903,Champion's Choice,New Delhi,2026-04-21T17:20:10.104Z,customers.csv,1404,Champion's Choice-New Delhi,India,Sports Bar,Acquisition
+789503,Peak Performance Store,New Delhi,2026-04-21T17:20:10.104Z,customers.csv,1404,Peak Performance Store-New Delhi,India,Sports Bar,Acquisition
+789501,Peak Performance Store,Bengaluru,2026-04-21T17:20:10.104Z,customers.csv,1404,Peak Performance Store-Bengaluru,India,Sports Bar,Acquisition
+789520,Primefuel Nutrition,Bengaluru,2026-04-21T17:20:10.104Z,customers.csv,1404,Primefuel Nutrition-Bengaluru,India,Sports Bar,Acquisition
+789902,Champion's Choice,Hyderabad,2026-04-21T17:20:10.104Z,customers.csv,1404,Champion's Choice-Hyderabad,India,Sports Bar,Acquisition
+789102,Endurance Foods,Hyderabad,2026-04-21T17:20:10.104Z,customers.csv,1404,Endurance Foods-Hyderabad,India,Sports Bar,Acquisition
+789103,Endurance Foods,New Delhi,2026-04-21T17:20:10.104Z,customers.csv,1404,Endurance Foods-New Delhi,India,Sports Bar,Acquisition
+789702,Staminax Store,Hyderabad,2026-04-21T17:20:10.104Z,customers.csv,1404,Staminax Store-Hyderabad,India,Sports Bar,Acquisition
+789621,Eliteathlete Nutrition,Hyderabad,2026-04-21T17:20:10.104Z,customers.csv,1404,Eliteathlete Nutrition-Hyderabad,India,Sports Bar,Acquisition
+789101,Endurance Foods,Bengaluru,2026-04-21T17:20:10.104Z,customers.csv,1404,Endurance Foods-Bengaluru,India,Sports Bar,Acquisition
+789403,Sprintx Nutrition,New Delhi,2026-04-21T17:20:10.104Z,customers.csv,1404,Sprintx Nutrition-New Delhi,India,Sports Bar,Acquisition
+789521,Primefuel Nutrition,Hyderabad,2026-04-21T17:20:10.104Z,customers.csv,1404,Primefuel Nutrition-Hyderabad,India,Sports Bar,Acquisition
+789203,Fitfuel Market,New Delhi,2026-04-21T17:20:10.104Z,customers.csv,1404,Fitfuel Market-New Delhi,India,Sports Bar,Acquisition
+789401,Sprintx Nutrition,Bengaluru,2026-04-21T17:20:10.104Z,customers.csv,1404,Sprintx Nutrition-Bengaluru,India,Sports Bar,Acquisition
+789402,Sprintx Nutrition,Hyderabad,2026-04-21T17:20:10.104Z,customers.csv,1404,Sprintx Nutrition-Hyderabad,India,Sports Bar,Acquisition
+789522,Primefuel Nutrition,New Delhi,2026-04-21T17:20:10.104Z,customers.csv,1404,Primefuel Nutrition-New Delhi,India,Sports Bar,Acquisition
+789721,Gameplan Foods,Hyderabad,2026-04-21T17:20:10.104Z,customers.csv,1404,Gameplan Foods-Hyderabad,India,Sports Bar,Acquisition
+789320,Powersnack Hub,Bengaluru,2026-04-21T17:20:10.104Z,customers.csv,1404,Powersnack Hub-Bengaluru,India,Sports Bar,Acquisition
+789121,Hydroboost Nutrition,Hyderabad,2026-04-21T17:20:10.104Z,customers.csv,1404,Hydroboost Nutrition-Hyderabad,India,Sports Bar,Acquisition
+789220,Macrobite Superfoods,Bengaluru,2026-04-21T17:20:10.104Z,customers.csv,1404,Macrobite Superfoods-Bengaluru,India,Sports Bar,Acquisition
+789303,Athlete's Choice Store,New Delhi,2026-04-21T17:20:10.104Z,customers.csv,1404,Athlete's Choice Store-New Delhi,India,Sports Bar,Acquisition
+789221,Macrobite Superfoods,Hyderabad,2026-04-21T17:20:10.104Z,customers.csv,1404,Macrobite Superfoods-Hyderabad,India,Sports Bar,Acquisition
+789603,Recovery Lane,Hyderabad,2026-04-21T17:20:10.104Z,customers.csv,1404,Recovery Lane-Hyderabad,India,Sports Bar,Acquisition
+789422,Zenathlete Foods,New Delhi,2026-04-21T17:20:10.104Z,customers.csv,1404,Zenathlete Foods-New Delhi,India,Sports Bar,Acquisition
+789703,Staminax Store,New Delhi,2026-04-21T17:20:10.104Z,customers.csv,1404,Staminax Store-New Delhi,India,Sports Bar,Acquisition

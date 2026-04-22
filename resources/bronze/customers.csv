@@ -1,0 +1,40 @@
+customer_id,customer_name,city,read_timestamp,file_name,file_size
+789201,FitFuel Market,Bengaluru,2026-04-21T17:20:10.104Z,customers.csv,1404
+789202,FitFuel Market,Hyderabad,2026-04-21T17:20:10.104Z,customers.csv,1404
+789203,FitFuel Market,New Delhi,2026-04-21T17:20:10.104Z,customers.csv,1404
+789301,Athlete's Choice Store,Bengaluru,2026-04-21T17:20:10.104Z,customers.csv,1404
+789303,Athlete's Choice Store,New Delhi,2026-04-21T17:20:10.104Z,customers.csv,1404
+789101,Endurance Foods,Bengalore,2026-04-21T17:20:10.104Z,customers.csv,1404
+789102,Endurance Foods,Hyderabad,2026-04-21T17:20:10.104Z,customers.csv,1404
+789103,Endurance Foods,New Delhi,2026-04-21T17:20:10.104Z,customers.csv,1404
+789121, HydroBoost Nutrition ,Hyderabad,2026-04-21T17:20:10.104Z,customers.csv,1404
+789122,HydroBoost Nutrition,New Delhi,2026-04-21T17:20:10.104Z,customers.csv,1404
+789220,MacroBite Superfoods,Bengaluru,2026-04-21T17:20:10.104Z,customers.csv,1404
+789221,MacroBite superfoods,Hyderabadd,2026-04-21T17:20:10.104Z,customers.csv,1404
+789320,PowerSnack Hub,Bengaluru,2026-04-21T17:20:10.104Z,customers.csv,1404
+789321,PowerSnack hub,Hyderabad,2026-04-21T17:20:10.104Z,customers.csv,1404
+789401, SprintX nutrition ,Bengaluru,2026-04-21T17:20:10.104Z,customers.csv,1404
+789402,SprintX Nutrition,Hyderabad,2026-04-21T17:20:10.104Z,customers.csv,1404
+789403,SprintX Nutrition,null,2026-04-21T17:20:10.104Z,customers.csv,1404
+789420, ZenAthlete foods ,null,2026-04-21T17:20:10.104Z,customers.csv,1404
+789421, ZenAthlete Foods ,Hyderbad,2026-04-21T17:20:10.104Z,customers.csv,1404
+789422,ZenAthlete Foods,NewDelhee,2026-04-21T17:20:10.104Z,customers.csv,1404
+789501,Peak performance Store,Bengaluru,2026-04-21T17:20:10.104Z,customers.csv,1404
+789503,Peak Performance store,NewDelhi,2026-04-21T17:20:10.104Z,customers.csv,1404
+789520,PrimeFuel Nutrition,Bengaluruu,2026-04-21T17:20:10.104Z,customers.csv,1404
+789521, PrimeFuel Nutrition ,null,2026-04-21T17:20:10.104Z,customers.csv,1404
+789522,PrimeFuel Nutrition,NewDheli,2026-04-21T17:20:10.104Z,customers.csv,1404
+789601,Recovery Lane,Bengaluru,2026-04-21T17:20:10.104Z,customers.csv,1404
+789603,Recovery Lane,null,2026-04-21T17:20:10.104Z,customers.csv,1404
+789702, StaminaX Store ,Hyderabad,2026-04-21T17:20:10.104Z,customers.csv,1404
+789703,StaminaX Store,New Delhi,2026-04-21T17:20:10.104Z,customers.csv,1404
+789621,EliteAthlete Nutrition,Hyderabad,2026-04-21T17:20:10.104Z,customers.csv,1404
+789622,EliteAthlete Nutrition,New Delhi,2026-04-21T17:20:10.104Z,customers.csv,1404
+789720,GamePlan Foods,Bengaluru,2026-04-21T17:20:10.104Z,customers.csv,1404
+789721,GamePlan Foods,Hyderabad,2026-04-21T17:20:10.104Z,customers.csv,1404
+789902,Champion's choice,Hyderabad,2026-04-21T17:20:10.104Z,customers.csv,1404
+789903,champion's Choice,New Delhi,2026-04-21T17:20:10.104Z,customers.csv,1404
+789603,Recovery Lane,null,2026-04-21T17:20:10.104Z,customers.csv,1404
+789321,PowerSnack hub,Hyderabad,2026-04-21T17:20:10.104Z,customers.csv,1404
+789522,PrimeFuel Nutrition,NewDheli,2026-04-21T17:20:10.104Z,customers.csv,1404
+789503,Peak Performance store,NewDelhi,2026-04-21T17:20:10.104Z,customers.csv,1404
