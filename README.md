@@ -1,4 +1,3 @@
 # FMCG_domain_Databricks
 
-[AtliQon BI 360 2026-04-22 13_57.pdf](https://github.com/user-attachments/files/26972432/AtliQon.BI.360.2026-04-22.13_57.pdf)
-[![Alt Text](path/to/preview-image.png)]([path/to/actual-document.pdf](https://github.com/user-attachments/files/26972432/AtliQon.BI.360.2026-04-22.13_57.pdf))
+[![View PDF Report]([[https://github.com/user/repo/blob/main/images/preview.png?raw=true](https://github.com/vinhsphabmixay/FMCG_domain_Databricks/blob/ef50244955e17dd2417010d0883400f03fcdd81a/AtliQon%20BI%20360%202026-04-22%2013_57.png?raw=true))]([https://github.com/user/repo/blob/main/docs/manual.pdf](https://github.com/vinhsphabmixay/FMCG_domain_Databricks/blob/c0080bb34c5c1cfa601746f173a61c10c4d5dd15/AtliQon%20BI%20360%202026-04-22%2013_57.pdf)](https://github.com/vinhsphabmixay/FMCG_domain_Databricks/blob/c0080bb34c5c1cfa601746f173a61c10c4d5dd15/AtliQon%20BI%20360%202026-04-22%2013_57.pdf))
