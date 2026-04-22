@@ -42,6 +42,13 @@ delta_table.alias("target").merge(
    
 The Silver tables are created with ```delta.enableChangeDataFeed = true```. This allows downstream Gold tables to capture only the modified rows, significantly reducing compute costs.
 
+## 📏 Orchestration
+
+The workflow is orchestrated using Databricks Jobs.
+
+<img width="1119" height="229" alt="Capture d&#39;écran 2026-04-22 205200" src="https://github.com/user-attachments/assets/fdd2618f-a7ac-4ab2-ac93-9b22ac5934fb" />
+
+
 ## 📑 Results
 
 The results are presented in a dashboard made on Databricks, and display key metrics that can be tweaked.
